@@ -34,7 +34,10 @@ Image + question → VLM structured output → RAG retrieval → LLM answer gene
 | Token-F1 | 0.226 | 0.530 |
 
 ## Demo
-Add screenshots here.
+Demo is provided in notebooks/05_gradio-vlm-rag-chatbot.ipynb.
+A standalone app.py version will be added later.
+<img width="1918" height="958" alt="image" src="https://github.com/user-attachments/assets/69654258-9431-4fbf-beeb-4850ed627e93" />
+
 
 ## How to Run
 pip install -r requirements.txt
