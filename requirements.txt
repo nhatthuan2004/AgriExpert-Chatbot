@@ -1,0 +1,17 @@
+torch
+transformers
+accelerate
+peft
+bitsandbytes
+sentence-transformers
+pandas
+numpy
+scikit-learn
+matplotlib
+tqdm
+gradio
+chromadb
+qwen-vl-utils
+rouge-score
+nltk
+bert-score
